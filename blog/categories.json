@@ -1,1 +1,27 @@
-
+[
+  {
+    "name": "BEU Updates",
+    "slug": "beu-updates",
+    "description": "Latest Bihar Engineering University updates, notices and announcements."
+  },
+  {
+    "name": "Study Guides",
+    "slug": "study-guides",
+    "description": "BEU syllabus, exam preparation and subject-wise study guides."
+  },
+  {
+    "name": "Engineering",
+    "slug": "engineering",
+    "description": "Engineering concepts, practical knowledge and technical learning."
+  },
+  {
+    "name": "Student Journey",
+    "slug": "student-journey",
+    "description": "Experiences, tips and stories from engineering students."
+  },
+  {
+    "name": "Career",
+    "slug": "career",
+    "description": "Career guidance, opportunities and professional development."
+  }
+]
