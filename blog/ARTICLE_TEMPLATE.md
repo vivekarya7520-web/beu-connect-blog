@@ -3,7 +3,7 @@
 title: "Your Article Title"
 slug: "your-article-title"
 description: "Write a clear 150–160 character summary of the article."
-date: "YYYY-MM-DD"
+date: "2026-11-14"
 author: "Vivek Kumar"
 author_image: "blog/images/developer-photo.png"
 category: "Student Journey"
