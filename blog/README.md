@@ -1,19 +1,26 @@
 # BEU Connect Blog
 
-Official blog content repository for BEU Connect.
+This directory contains the content and assets for the BEU Connect Blog.
 
-## Categories
-- BEU Academic Preparation
-- Academic Toolkit Guides
-- GATE Preparation
-- Engineering Knowledge
-- Engineering Career
-- My Journey & BEU Connect Stories
+## Folder Structure
 
-## Structure
-- articles/ — Markdown blog articles
-- images/ — Manually designed article thumbnails
-- categories.json — Blog categories
-- ARTICLE_TEMPLATE.md — Standard article format
+- `articles/` – Blog articles in Markdown format.
+- `images/` – Article thumbnails and author profile images.
+- `categories.json` – Blog categories and descriptions.
+- `ARTICLE_TEMPLATE.md` – Standard template for creating articles.
 
-Only published articles should be displayed on the website.
+## Author
+
+**Vivek Kumar**
+
+BEU Connect Founder & Civil Engineering Student.
+
+## Content Guidelines
+
+- Write original and useful articles.
+- Use the standard article template.
+- Add relevant thumbnails manually.
+- Keep article metadata accurate.
+- Set status to `published` only when the article is ready.
+
+All blog content is maintained through this GitHub repository.
